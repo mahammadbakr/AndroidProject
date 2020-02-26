@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HTG</string>
+
+    <string name="b1">HALABJA</string>
+    <string name="b2">PLACES</string>
+    <string name="b3">ABOUT US</string>
+    <string name="b4">EXIT</string>
+    <string name="halabja">Halabja</string>
+    <string name="Aboutus">About us</string>
+    <string name="developedby">Developed by</string>
+    <string name="supervisedby">Supervised by</string>
+    <string name="hamaybakr">Muhammad Bakr</string>
+    <string name="bawaryxom">Bawer Ali</string>
+    <string name="hamayrashid">Muhammad Rashid</string>
+    <string name="xalabrwa">Brwa Khalil</string>
+    <string name="silvakam">Silva Mati</string>
+    <string name="muayad">Moayad Potrus</string>
+    <string name="arabic">عندما يريد العالم أن ‪يتكلّم ‬ ، فهو يتحدّث بلغة يونيكود. تسجّل الآن لحضور المؤتمر الدولي العاشر ليونيكود (Unicode Conference)، الذي سيعقد في 10-12 آذار 1997 بمدينة مَايِنْتْس، ألمانيا. و سيجمع المؤتمر بين خبراء من كافة قطاعات الصناعة على الشبكة العالمية انترنيت ويونيكود، حيث ستتم، على الصعيدين الدولي والمحلي على حد سواء مناقشة سبل استخدام يونكود في النظم القائمة وفيما يخص التطبيقات الحاسوبية، الخطوط، تصميم النصوص والحوسبة متعددة اللغات.</string>
+
+
+</resources>
